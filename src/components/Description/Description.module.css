@@ -1,0 +1,14 @@
+.wrapper {
+  margin-bottom: 24px;
+}
+
+.title {
+  margin: 0 0 8px;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.text {
+  margin: 0;
+  opacity: 0.8;
+}

@@ -1,0 +1,8 @@
+.text {
+  margin: 0;
+  padding: 14px;
+  border-radius: 12px;
+  border: 1px dashed #d6ccc2;
+  background: white;
+  max-width: 300px;
+}
